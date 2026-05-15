@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
