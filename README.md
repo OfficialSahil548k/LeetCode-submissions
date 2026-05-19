@@ -42,10 +42,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
