@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
