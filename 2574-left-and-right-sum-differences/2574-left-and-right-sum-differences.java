@@ -1,8 +1,6 @@
 class Solution {
     public int[] leftRightDifference(int[] nums) {
         int n = nums.length;
-        int[] leftSum = new int[n];
-        int[] rightSum = new int[n];
         int[] result = new int[n];
 
         for(int i=0; i<n; i++){
@@ -12,7 +10,6 @@ class Solution {
                 sum1 += nums[j];
                 j++;
             }
-            leftSum[i] = sum1;
 
             int sum2 = 0;
             int k=i+1;
@@ -20,12 +17,11 @@ class Solution {
                 sum2 += nums[k];
                 k++;
             }
-            rightSum[i] = sum2;
 
-            if(leftSum[i]>rightSum[i]){
-                result[i] = leftSum[i]-rightSum[i];
+            if(sum1>sum2){
+                result[i] = sum1-sum2;
             }else{
-                result[i] = rightSum[i]-leftSum[i];
+                result[i] = sum2-sum1;
             }
         }
 
