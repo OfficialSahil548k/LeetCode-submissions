@@ -1,19 +1,21 @@
 class Solution {
     public int reverse(int x) {
-        String s = Integer.toString(x);
-        StringBuilder ans = new StringBuilder();
-        if(!Character.isDigit(s.charAt(0))){
-            ans.append(s.charAt(0));
-        }
-        for(int i=s.length()-1; i>=0; i--){
-            if(Character.isDigit(s.charAt(i))){
-                ans.append(s.charAt(i));
+
+        int rev = 0;
+
+        while (x != 0) {
+
+            int digit = x % 10;
+            x /= 10;
+
+            if (rev > Integer.MAX_VALUE / 10 ||
+                rev < Integer.MIN_VALUE / 10) {
+                return 0;
             }
+
+            rev = rev * 10 + digit;
         }
-        try {
-            return Integer.parseInt(ans.toString());
-        } catch (NumberFormatException e) {
-            return 0;
-        }
+
+        return rev;
     }
 }
