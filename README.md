@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 ## Greedy
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
