@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
