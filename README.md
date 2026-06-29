@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Segment Tree
 |  |
