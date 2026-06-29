@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
