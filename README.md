@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -216,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
