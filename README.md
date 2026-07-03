@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Binary Tree
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Union-Find
 |  |
 | ------- |
