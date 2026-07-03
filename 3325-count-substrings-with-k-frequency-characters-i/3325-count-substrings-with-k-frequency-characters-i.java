@@ -6,29 +6,19 @@ class Solution {
             return (n * (n + 1)) / 2;
         }
 
+        int[] freq = new int[26];
+        int left = 0;
         int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            int[] freq = new int[26];
-            freq[s.charAt(i) - 'a']++;
+        for (int right = 0; right < n; right++) {
+            char ch = s.charAt(right);
+            freq[ch - 'a']++;
 
-            if (freq[s.charAt(i) - 'a'] >= k) {
-                count += n - i;
-                continue;
-            }
+            while (freq[ch - 'a'] >= k) {
+                count += (n - right);
 
-            int j = i + 1;
-
-            while (j < n) {
-                char ch = s.charAt(j);
-                freq[ch - 'a']++;
-
-                if (freq[ch - 'a'] >= k) {
-                    count += (n - j);
-                    break;
-                } else {
-                    j++;
-                }
+                freq[s.charAt(left) - 'a']--;
+                left++;
             }
         }
 
