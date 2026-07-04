@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
