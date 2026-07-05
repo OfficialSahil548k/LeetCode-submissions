@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
+| [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
