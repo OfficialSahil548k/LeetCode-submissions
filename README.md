@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
@@ -165,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
