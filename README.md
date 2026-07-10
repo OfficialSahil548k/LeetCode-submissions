@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
