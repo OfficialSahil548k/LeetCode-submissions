@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
