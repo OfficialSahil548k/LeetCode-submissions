@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Segment Tree
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
