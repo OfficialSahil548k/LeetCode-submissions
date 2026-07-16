@@ -35,16 +35,23 @@ class Solution {
         return dummy.next;
     }
 
+    private ListNode mergeK(ListNode[] lists, int left, int right) {
+        if (left == right) {
+            return lists[left];
+        }
+
+        int mid = left + (right - left) / 2;
+
+        ListNode leftMerged = mergeK(lists, left, mid);
+        ListNode rightMerged = mergeK(lists, mid + 1, right);
+
+        return merge(leftMerged, rightMerged);
+    }
+
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists.length == 0) {
+        if (lists.length == 0)
             return null;
-        }
-        ListNode merged = lists[0];
 
-        for (int i = 1; i < lists.length; i++) {
-            merged = merge(merged, lists[i]);
-        }
-
-        return merged;
+        return mergeK(lists, 0, lists.length - 1);
     }
 }
