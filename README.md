@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -321,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -331,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
