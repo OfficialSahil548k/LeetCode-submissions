@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
