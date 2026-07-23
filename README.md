@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
