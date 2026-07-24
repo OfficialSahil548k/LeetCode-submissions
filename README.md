@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
