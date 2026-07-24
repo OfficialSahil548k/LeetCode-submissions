@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0067-add-binary) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
