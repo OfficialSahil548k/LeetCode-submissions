@@ -4,7 +4,7 @@ class Solution {
         int max2 = Integer.MIN_VALUE;
 
         for(int i=0; i<nums.length; i++){
-            int val = nums[i] - 1;
+            int val = nums[i];
             if(val >= max1){
                 max2 = max1;
                 max1 = val;
@@ -13,6 +13,6 @@ class Solution {
             }
         }
 
-        return max1 * max2;
+        return (max1 - 1) * (max2 - 1);
     }
 }
