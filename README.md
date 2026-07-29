@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
