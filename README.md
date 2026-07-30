@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Rolling Hash
