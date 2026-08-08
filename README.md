@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
