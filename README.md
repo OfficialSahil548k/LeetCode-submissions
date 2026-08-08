@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
