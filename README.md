@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0877-stone-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
