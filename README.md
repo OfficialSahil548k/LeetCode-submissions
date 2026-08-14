@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
@@ -461,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
