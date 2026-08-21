@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
