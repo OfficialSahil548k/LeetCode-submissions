@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0226-invert-binary-tree) |
 | [1306-jump-game-iii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1345-jump-game-iv) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
