@@ -1,16 +1,24 @@
 class Solution {
-    public int climbStairs(int n) {
-        if(n <= 2) return n;
+    Map<Integer, Integer> dp = new HashMap<>();
 
-        int prev2 = 1;
-        int prev1 = 2;
+    private int count(int i, int n) {
+        if (i == n)
+            return 1;
+        if (i > n)
+            return 0;
 
-        for(int i=3; i<=n; i++){
-            int curr = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = curr;
+        if (dp.containsKey(i)) {
+            return dp.get(i);
         }
 
-        return prev1;
+        int result = count(i + 1, n) + count(i + 2, n);
+
+        dp.put(i, result);
+
+        return result;
+    }
+
+    public int climbStairs(int n) {
+        return count(0, n);
     }
 }
