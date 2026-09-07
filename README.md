@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3693-climbing-stairs-ii) |
 | [3838-weighted-word-mapping](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
