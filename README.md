@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -534,4 +536,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
