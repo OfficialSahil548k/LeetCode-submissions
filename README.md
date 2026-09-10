@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0877-stone-game) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -540,8 +543,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
