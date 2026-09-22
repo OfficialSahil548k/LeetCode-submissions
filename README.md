@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
