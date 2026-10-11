@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0200-number-of-islands) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/0344-reverse-string) |
