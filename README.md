@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/OfficialSahil548k/LeetCode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
